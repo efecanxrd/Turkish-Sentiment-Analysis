@@ -1,0 +1,12 @@
+os
+pandas
+numpy
+matplotlib
+csv
+openpyxl
+seaborn
+scipy
+PIL
+wordcloud
+nest_asyncio
+snscrape
